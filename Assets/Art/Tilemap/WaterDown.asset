@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: WaterDown
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 123d9aec2750e164ca6e34aba5e21c12, type: 3}
+  - {fileID: 21300000, guid: 5745cbbe40f947f4cbcfddebaff97fe1, type: 3}
+  - {fileID: 21300000, guid: c2ad532c549f34644b08d59fbbf5b035, type: 3}
+  - {fileID: 21300000, guid: bb095544e7b1b8c46ad451c31a773566, type: 3}
+  - {fileID: 21300000, guid: c61ccc7377074204eb9df8ce809c5803, type: 3}
+  - {fileID: 21300000, guid: 3b61cf1072c36154fb5d0aeb5311fd26, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

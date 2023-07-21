@@ -1,0 +1,508 @@
+[
+  {
+    "nombreDificultad": "Nivel 0",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuál es la fórmula química del agua?",
+        "respuestas": [
+          { "texto": "H2O" },
+          { "texto": "CH2O" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cuál es la fórmula química del agua?",
+        "respuestas": [
+          { "texto": "CH2O" },
+          { "texto": "H2O" }
+        ],
+        "respuestaCorrecta": 1
+      },
+
+      {
+        "enunciado": "¿Cuántos planetas tiene el sistema solar?",
+        "respuestas": [
+          { "texto": "9" },
+          { "texto": "8" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cuántos planetas tiene el sistema solar?",
+        "respuestas": [
+          { "texto": "8" },
+          { "texto": "9" }
+        ],
+        "respuestaCorrecta": 0
+      },
+
+      {
+        "enunciado": "¿Cuál es el planeta más alejado del Sol?",
+        "respuestas": [
+          { "texto": "Saturno" },
+          { "texto": "Neptuno" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cuál es el planeta más alejado del Sol?",
+        "respuestas": [
+          { "texto": "Neptuno" },
+          { "texto": "Saturno" }
+        ],
+        "respuestaCorrecta": 0
+      }
+
+
+    ]
+  },
+  {
+    "nombreDificultad": "Nivel 1",
+    "preguntas": [
+      {
+        "enunciado": "¿Qué órgano del cuerpo humano consume más energía?",
+        "respuestas": [
+          { "texto": "El cerebro" },
+          { "texto": "El corazón" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Qué órgano del cuerpo humano consume más energía?",
+        "respuestas": [
+          { "texto": "El corazón" },
+          { "texto": "El cerebro" }
+        ],
+        "respuestaCorrecta": 1
+      },
+
+      {
+        "enunciado": "¿Son los humanos carnívoros u omnívoros?",
+        "respuestas": [
+          { "texto": "Carnívoros" },
+          { "texto": "Omnívoros" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Son los humanos carnívoros u omnívoros?",
+        "respuestas": [
+          { "texto": "Omnívoros" },
+          { "texto": "Carnívoros" }
+        ],
+        "respuestaCorrecta": 0
+      },
+
+      {
+        "enunciado": "¿Cual es el único satélite natural de la Tierra?",
+        "respuestas": [
+          { "texto": "Sol" },
+          { "texto": "La luna" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cual es el único satélite natural de la Tierra?",
+        "respuestas": [
+          { "texto": "La luna"},
+          { "texto": "Sol" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Nivel 2",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuál es el planeta más cercano al Sol?",
+        "respuestas": [
+          { "texto": "Mercurio" },
+          { "texto": "Saturno" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cuál es el planeta más cercano al Sol?",
+        "respuestas": [
+          { "texto": "Saturno" },
+          { "texto": "Mercurio" }
+        ],
+        "respuestaCorrecta": 1
+      },
+
+      {
+        "enunciado": "Un electrón lleva una carga positiva. ¿Verdadero o falso?",
+        "respuestas": [
+          { "texto": "Falso" },
+          { "texto": "Verdadero" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Un electrón lleva una carga positiva. ¿Verdadero o falso?",
+        "respuestas": [
+          { "texto": "Verdadero" },
+          { "texto": "Falso" }
+        ],
+        "respuestaCorrecta": 1
+      },
+
+      {
+        "enunciado": "¿Cuál es el primer elemento de la tabla periódica?",
+        "respuestas": [
+          { "texto": "Plomo" },
+          { "texto": "Hidrógeno" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cuál es el primer elemento de la tabla periódica?",
+        "respuestas": [
+          { "texto": "Hidrógeno"},
+          { "texto": "Plomo" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Nivel 3",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuántos elementos componen la tabla periódica?",
+        "respuestas": [
+          { "texto": "120" },
+          { "texto": "118" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cuántos elementos componen la tabla periódica?",
+        "respuestas": [
+          { "texto": "118" },
+          { "texto": "120" }
+        ],
+        "respuestaCorrecta": 0
+      },
+
+      {
+        "enunciado": "¿Cuál es el número atómico del Carbono?",
+        "respuestas": [
+          { "texto": "3" },
+          { "texto": "6" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cuál es el número atómico del Carbono?",
+        "respuestas": [
+          { "texto": "6" },
+          { "texto": "3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+
+      {
+        "enunciado": "Coordina los movimientos y postura del cuerpo",
+        "respuestas": [
+          { "texto": "Cerebelo" },
+          { "texto": "Medula espinal" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Coordina los movimientos y postura del cuerpo",
+        "respuestas": [
+          { "texto": "Medula espinal" },
+          { "texto": "Cerebelo" }
+        ],
+        "respuestaCorrecta": 1
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Nivel 4",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuál es el símbolo químico del oro?",
+        "respuestas": [
+          { "texto": "Au" },
+          { "texto": "Br" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cuál es el símbolo químico del oro?",
+        "respuestas": [
+          { "texto": "Br" },
+          { "texto": "Au" }
+        ],
+        "respuestaCorrecta": 1
+      },
+
+      {
+        "enunciado": "¿Cuál es el símbolo químico del azufre?",
+        "respuestas": [
+          { "texto": "CI" },
+          { "texto": "S" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cuál es el símbolo químico del azufre?",
+        "respuestas": [
+          { "texto": "S" },
+          { "texto": "CI" }
+        ],
+        "respuestaCorrecta": 0
+      },
+
+      {
+        "enunciado": "¿Qué hormona ayuda a estabilizar el nivel de azúcar en la sangre?",
+        "respuestas": [
+          { "texto": "Insulina" },
+          { "texto": "Aldosterona" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Qué hormona ayuda a estabilizar el nivel de azúcar en la sangre?",
+        "respuestas": [
+          { "texto": "Aldosterona" },
+          { "texto": "Insulina" }
+        ],
+        "respuestaCorrecta": 1
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Nivel 5",
+    "preguntas": [
+      {
+        "enunciado": "Tiene función endocrina",
+        "respuestas": [
+          { "texto": "Hipotálamo" },
+          { "texto": "Cerebro" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Tiene función endocrina",
+        "respuestas": [
+          { "texto": "Cerebro" },
+          { "texto": "Hipotálamo" }
+        ],
+        "respuestaCorrecta": 1
+      },
+
+      {
+        "enunciado": "Es el conjunto de genes que un individuo posee",
+        "respuestas": [
+          { "texto": "Fenotipo" },
+          { "texto": "Genotipo" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Es el conjunto de genes que un individuo posee",
+        "respuestas": [
+          { "texto": "Genotipo" },
+          { "texto": "Fenotipo" }
+        ],
+        "respuestaCorrecta": 0
+      },
+
+      {
+        "enunciado": "NO es un bioelemento",
+        "respuestas": [
+          { "texto": "Zinc" },
+          { "texto": "Helio " }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "NO es un bioelemento",
+        "respuestas": [
+          { "texto": "Helio " },
+          { "texto": "Zinc" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  
+  {
+    "nombreDificultad": "Nivel 6",
+    "preguntas": [
+      {
+        "enunciado": "Es la biomolecula mas abundante en los seres vivos",
+        "respuestas": [
+          { "texto": "Agua" },
+          { "texto": "Glucosa" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Es la biomolecula mas abundante en los seres vivos",
+        "respuestas": [
+          { "texto": "Glucosa" },
+          { "texto": "Agua" }
+        ],
+        "respuestaCorrecta": 1
+      },
+
+
+      {
+        "enunciado": "Contiene informacion genetica de cada ser vivo",
+        "respuestas": [
+          { "texto": "ADN" },
+          { "texto": "Proteinas" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Contiene informacion genetica de cada ser vivo",
+        "respuestas": [
+          { "texto": "Proteinas" },
+          { "texto": "ADN" }
+        ],
+        "respuestaCorrecta": 1
+      },
+
+
+      {
+        "enunciado": "Biomolecula formada por aminoacidos",
+        "respuestas": [
+          { "texto": "Proteinas" },
+          { "texto": "Carbohidratos" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Biomolecula formada por aminoacidos",
+        "respuestas": [
+          { "texto": "Carbohidratos" },
+          { "texto": "Proteínas" }
+        ],
+        "respuestaCorrecta": 1
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Nivel 7",
+    "preguntas": [
+      {
+        "enunciado": "Uno de los carbohidratos es un polisacarido",
+        "respuestas": [
+          { "texto": "Almidon" },
+          { "texto": "Glucosa" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Los aminoacidos se unen mediante enlaces?",
+        "respuestas": [
+          { "texto": "Covalentes" },
+          { "texto": "Peptidicos" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿A cual sistema afecta la enfermedad Meningitis?",
+        "respuestas": [
+          { "texto": "Endocrino" },
+          { "texto": "Nervioso" }
+        ],
+        "respuestaCorrecta": 1
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Nivel 8",
+    "preguntas": [
+      {
+        "enunciado": "¿Cual es el simbolo quimico del Silicio",
+        "respuestas": [
+          { "texto": "Sn" },
+          { "texto": "Si" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Es una enfermedad que afecta a la vejiga",
+        "respuestas": [
+          { "texto": "Cistitis" },
+          { "texto": "Uretritis" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Las neuronas son parte del sistema?",
+        "respuestas": [
+          { "texto": "Respiratorio" },
+          { "texto": "Nervioso" }
+        ],
+        "respuestaCorrecta": 1
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Nivel 9",
+    "preguntas": [
+      {
+        "enunciado": "Conocido como el padre de la geometria",
+        "respuestas": [
+          { "texto": "Euclides" },
+          { "texto": "Arquimedes" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Que estudia la ficologia?",
+        "respuestas": [
+          { "texto": "Los peces" },
+          { "texto": "Las algas" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Los objetos mas luminososos del universo conocido son?",
+        "respuestas": [
+          { "texto": "Las estrellas" },
+          { "texto": "Los cuasares" }
+        ],
+        "respuestaCorrecta": 1
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Nivel 10",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuantos cromosomas tiene el ser humano",
+        "respuestas": [
+          { "texto": "23 pares" },
+          { "texto": "30 pares" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Causante del virus del sida",
+        "respuestas": [
+          { "texto": "VIH" },
+          { "texto": "VHS" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cual es el numero atomico del Xenon?",
+        "respuestas": [
+          { "texto": "80" },
+          { "texto": "54" }
+        ],
+        "respuestaCorrecta": 1
+      }
+    ]
+  }
+]
